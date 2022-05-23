@@ -1,5 +1,5 @@
 //                                                                                                                                                                                                          
-// Created by Ali A. Kooshesh on 8/21/18.                                                                                                                                                                   
+// Created by Alana Reyna on 8/21/18.                                                                                                                                                                   
 //                                                                                                                                                                                                          
 
 #ifndef LAB01_2_TOKEN_HPP
