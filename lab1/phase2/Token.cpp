@@ -1,5 +1,5 @@
 //                                                                                                                                                                                                          
-// Created by Ali A. Kooshesh on 8/21/18.                                                                                                                                                                   
+// Created by Alana Reyna on 8/21/18.                                                                                                                                                                   
 //                                                                                                                                                                                                          
 
 #include <iostream>
