@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/areyna's home/cs315/project2/Entity.cpp
+EntityInstance.hpp
+/Volumes/areyna's home/cs315/project2/EntityInstance.hpp
+Entity.hpp
+/Volumes/areyna's home/cs315/project2/Entity.hpp
+iostream
+-
+vector
+-
+
+/Volumes/areyna's home/cs315/project2/Entity.hpp
+EntityInstance.hpp
+/Volumes/areyna's home/cs315/project2/EntityInstance.hpp
+
+/Volumes/areyna's home/cs315/project2/EntityInstance.hpp
+iostream
+-
+vector
+-
+Pair.hpp
+/Volumes/areyna's home/cs315/project2/Pair.hpp
+
+/Volumes/areyna's home/cs315/project2/Pair.hpp
+iostream
+-
+string
+-
+
