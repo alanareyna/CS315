@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/areyna's home/cs315/lab03/BinSearchTree.hpp
+stdlib.h
+-
+TreeNode.hpp
+/Volumes/areyna's home/cs315/lab03/TreeNode.hpp
+
+/Volumes/areyna's home/cs315/lab03/TreeNode.hpp
+
+/Volumes/areyna's home/cs315/lab03/main.cpp
+iostream
+-
+fstream
+-
+TreeNode.hpp
+/Volumes/areyna's home/cs315/lab03/TreeNode.hpp
+BinSearchTree.hpp
+/Volumes/areyna's home/cs315/lab03/BinSearchTree.hpp
+
