@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/areyna's home/cs315/movieLAB/download2.cpp
+iostream
+-
+iomanip
+-
+sstream
+-
+cstdio
+-
+string
+-
+vector
+-
+
