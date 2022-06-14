@@ -1,0 +1,7 @@
+Alana Reyna
+project 3
+
+My code goes through an infinite loop in main where I loop until the token hits end of line. When you run the code it
+processes the expression, but it won't go past that while loop to evaluate or print it. It will add to the map successfully
+as well and would function properly if it got past the while loop. I was able to make it print the solved evaluation
+before I made changes to my main. The rest of my code, to the best of my knowledge, works properly.

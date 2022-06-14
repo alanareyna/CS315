@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/areyna's home/cs315/project03/RomanCalculatorStudentFiles/Token.hpp
+iostream
+-
+string
+-
+
+/Volumes/areyna's home/cs315/project03/RomanCalculatorStudentFiles/Tokenizer.cpp
+Tokenizer.hpp
+/Volumes/areyna's home/cs315/project03/RomanCalculatorStudentFiles/Tokenizer.hpp
+Token.hpp
+/Volumes/areyna's home/cs315/project03/RomanCalculatorStudentFiles/Token.hpp
+iostream
+-
+string
+-
+
+/Volumes/areyna's home/cs315/project03/RomanCalculatorStudentFiles/Tokenizer.hpp
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+Token.hpp
+/Volumes/areyna's home/cs315/project03/RomanCalculatorStudentFiles/Token.hpp
+
